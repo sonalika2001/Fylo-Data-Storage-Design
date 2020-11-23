@@ -1,0 +1,14 @@
+body{
+    background-color: hsl(229, 57%, 11%);
+    margin: 0;
+    overflow: hidden;
+    
+}
+img{
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 50%;
+    bottom: 0%;
+
+}
